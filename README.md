@@ -9,9 +9,10 @@
 
 ### Programming Languages I am excellent at:
 - Python
-- Java
+- Javascript
 - Matlab
-- More coming :)
+- Java
+
 
 ###
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Chikanma681&show_icons=true&theme=buefy)](https://github.com/Chikanma681/)
