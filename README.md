@@ -46,10 +46,4 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" height="40" alt="nginx logo" />
   <img width="12" />
-
-  <!-- Additional Tools -->
-  <img width="12" />
-  <img src="URL_TO_IBM_WATSON_ASSISTANT_LOGO" height="40" alt="ibm watson assistant logo" />
-  <img width="12" />
-  <img src="URL_TO_RASA_CHATBOT_LOGO" height="40" alt="rasa chatbot logo" />
 </div>
