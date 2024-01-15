@@ -38,18 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 
   <!-- Tools -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/1024px-Stripe_Logo%2C_revised_2016.svg.png" height="40" alt="stripe logo" />
   <img width="12" />
-  <img src="URL_TO_POSTMAN_LOGO" height="40" alt="postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="URL_TO_AWS_LOGO" height="40" alt="aws logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" height="40" alt="nginx logo" />
   <img width="12" />
-  <img src="URL_TO_NGINX_LOGO" height="40" alt="nginx logo" />
 
   <!-- Additional Tools -->
   <img width="12" />
