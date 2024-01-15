@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="URL_TO_STRIPE_API_LOGO" height="40" alt="stripe api logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/1024px-Stripe_Logo%2C_revised_2016.svg.png" height="40" alt="stripe logo" />
   <img width="12" />
   <img src="URL_TO_POSTMAN_LOGO" height="40" alt="postman logo" />
   <img width="12" />
